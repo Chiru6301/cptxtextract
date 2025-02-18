@@ -2,7 +2,7 @@
 
 ## Deploy To Heroku(wont deploy) #made for VPS Only.
 
-<a href="https://heroku.com/deploy?template=https://github.com/rishavdevkr/cptxtextractor">
+<a href="https://heroku.com/deploy?template=https://github.com/Chiru6301/cptxtextractor">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 
